@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: A work in progress
+subtitle: Welcome to my website
+gh-repo: troysalt.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
