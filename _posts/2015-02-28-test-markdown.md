@@ -8,7 +8,7 @@ tags: [test]
 comments: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+This site is a work in progress, but in the future will showcase my work. Please check back soon if you're interested in remote sensing, GIS, and environmental science.
 
 **Here is some bold text**
 
