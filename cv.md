@@ -13,7 +13,7 @@ title: Curriculum Vitae
 [Awards and Scholarships](#awards-and-scholarships)  
 [Publications](#publications)  
 [Presentations](#presentations)  
-[Licenses & Certifications](#licenses-&-certifications)
+[Licenses & Certifications](#licenses-&-certifications)  
 [Professional Memberships](#professional-memberships)  
 [Extracurricular](#extracurricular)  
 
