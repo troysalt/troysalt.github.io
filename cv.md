@@ -13,6 +13,7 @@ title: Curriculum Vitae
 [Awards and Scholarships](#awards-and-scholarships)  
 [Publications](#publications)  
 [Presentations](#presentations)  
+[Licenses & Certifications](#licenses-&-certifications)
 [Professional Memberships](#professional-memberships)  
 [Extracurricular](#extracurricular)  
 
@@ -153,6 +154,13 @@ Gingrich, Jack B., **Saltiel, Troy M.**, Vincent, Zach T. (2019). A Survey for *
 Gingrich, Jack B., **Saltiel, Troy M.**, Vincent, Zach T. (Jan 2018). *A Survey for Aedes Aegypti in Delaware and the Virus-Positive Pool Rates of Aedes Albopictus and Ochlerotatus Triseriatus for West Nile and Zika Viruses*. Poster presented at the Delaware Wetlands Conference, Wilmington, DE.
 
 **Saltiel, Troy M.** (Nov 2017). *Open Data and the MapGive Initiative*. Oral presentation at the 2017 University of Delaware GIS Day, Newark, DE.
+
+[Back to Top](#top)
+
+# Licenses & Certifications
+---
+
+**Geologist in Training** *Apr  2019* National Association of State Boards of Geology (ASBOG)
 
 [Back to Top](#top)
 
