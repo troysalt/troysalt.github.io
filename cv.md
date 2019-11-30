@@ -3,8 +3,18 @@ layout: page
 title: Curriculum Vitae
 ---
 
-**Jump to:**
-[Education](#education)
+**Jump to:**  
+[Education](#education)  
+[Skills](#skills)  
+[Languages](#languages)  
+[Programs](#programs)  
+[Work Experience](#work experience)  
+[Teaching Experience](#teaching experience)  
+[Awards and Scholarships](#awards and scholarships)  
+[Publications](#publications)  
+[Presenatations](#presentations)  
+[Professional Memberships](#professional memberships)  
+[Extracurricular](#extracurricular)  
 
 # Education
 **University of Utah**, Salt Lake City, UT - Geography (MS)  
