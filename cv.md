@@ -13,7 +13,7 @@ title: Curriculum Vitae
 [Awards and Scholarships](#awards-and-scholarships)  
 [Publications](#publications)  
 [Presentations](#presentations)  
-[Licenses & Certifications](#licenses-certifications)  
+[Licenses & Certifications](#licenses-and-certifications)  
 [Professional Memberships](#professional-memberships)  
 [Extracurricular](#extracurricular)  
 
@@ -157,7 +157,7 @@ Gingrich, Jack B., **Saltiel, Troy M.**, Vincent, Zach T. (Jan 2018). *A Survey 
 
 [Back to Top](#top)
 
-# Licenses & Certifications
+# Licenses and Certifications
 ---
 
 **Geologist in Training** - National Association of State Boards of Geology (ASBOG)  
