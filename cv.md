@@ -38,6 +38,8 @@ title: Curriculum Vitae
 
 - Concentration: Advanced GIS, Spatial Statistics, Python Scripting, Matlab, Spatial Analysis, Spatial Data Management, Web GIS, Geological Remote Sensing
 
+[Back to Top](#top)
+
 # Skills
 ---
 
@@ -52,6 +54,8 @@ Python, R, HTML, Markdown, Git, Linux command line
 ---
 
 ArcGIS (Pro, Desktop, Online), ENVI, Agisoft Metashape, CloudCompare, Microsoft Office (Excel, Word, PowerPoint), RStudio, Github, Joomla, WordPress, OpenStreetMap (iD, JOSM)
+
+[Back to Top](#top)
 
 # Work Experience
 ---
@@ -74,7 +78,7 @@ Created a GIS to catalogue the edible plants on campus in addition to the new fo
 
 **Undergraduate Researcher** - North Carolina State University  
 Raleigh, NC | *Jun 2018 - Aug 2018*  
-Studied methods of assessing soil water infiltration using sprinkle, single-ring, and double-ring infiltrometers. The objective was to determine whether more practical devices (i.e. small diameter single-ring) are accurate enough for soil assessment, especially for agriculture. The program, the Basic Environmental Soil Science Training (BESST), is funded by the National Science Foundation (NSF). I was advised by Dr. Josh Heitman and Dr. Aziz Amoozegar of NC State University. The research was presented at the Soil Science Society of America Meeting in January 2019, and we are working on writing a paper to Agriculture & Environmental Letters.
+Studied methods of assessing soil water infiltration using sprinkle, single-ring, and double-ring infiltrometers. The objective was to determine whether more practical devices (i.e. small diameter single-ring) are accurate enough for soil assessment, especially for agriculture. The program, the Basic Environmental Soil Science Training (BESST), is funded by the National Science Foundation (NSF). I was advised by Dr. Josh Heitman and Dr. Aziz Amoozegar of NC State University. The research was presented at the Soil Science Society of America Meeting in January 2019, and we are working on writing a paper to *Agriculture & Environmental Letters*.
 
 **GIS Consultant** - Mission Street Parks Conservancy  
 Salem, OR | *Feb 2018 - Mar 2018*  
@@ -92,6 +96,8 @@ Conducted a study on Aedes aegypti and Ae. albopictus which are vectors of the Z
 Glasgow, DE | *May 2016 - Oct 2016*  
 I performed routine mosquito breeding surveillance and abatement activities (majority of time); collected West Nile and Eastern Equine Encephalitis Virus surveillance data; trapped for mosquitoes to later identify by genus and species; used handheld GPS and tablets for field data collections/record keeping; addressed citizen mosquito complaints; and conducted public education efforts on how communities and citizens can reduce mosquito breeding in and around their homes plus protect themselves from mosquito borne diseases.
 
+[Back to Top](#top)
+
 # Teaching Experience
 ---
 
@@ -102,6 +108,8 @@ I was a teaching assistant for the Geological Hazards Lab Section (GEOL115). The
 **Peer Mentor** - University of Delaware, First Year Seminar  
 Newark, DE | *Aug 2018 - Dec 2018*  
 I was the peer mentor for the University’s Introduction to the Environment (ENSC101) course. It was my responsibility to help freshman students transition to college life on campus. I taught 12 class periods including academic skills, goal setting, safety and wellness, university resources, ethics, and more. 
+
+[Back to Top](#top)
 
 # Awards and Scholarships
 ---
@@ -118,10 +126,14 @@ I was the peer mentor for the University’s Introduction to the Environment (EN
 
 **Delaware Diplomats Scholarship** *January 2017* - University of Delaware, Institute for Global Studies
 
+[Back to Top](#top)
+
 # Publications
 ---
 
 Gingrich, Jack B., **Saltiel, Troy M.**, Vincent, Zach T. (2019). A Survey for *Aedes Aegypti* in Delaware and the Virus-Positive Pool Rates of *Aedes Albopictus* and *Ochlerotatus Triseriatus* for West Nile and Zika Viruses. *Journal of the American Mosquito Control Association* 35 (2), 91-96.
+
+[Back to Top](#top)
 
 # Presentations
 ---
@@ -138,6 +150,8 @@ Gingrich, Jack B., **Saltiel, Troy M.**, Vincent, Zach T. (Jan 2018). *A Survey 
 
 **Saltiel, Troy M.** (Nov 2017). *Open Data and the MapGive Initiative*. Oral presentation at the 2017 University of Delaware GIS Day, Newark, DE.
 
+[Back to Top](#top)
+
 # Professional Memberships
 ---
 
@@ -146,6 +160,8 @@ Gingrich, Jack B., **Saltiel, Troy M.**, Vincent, Zach T. (Jan 2018). *A Survey 
 **American Geophysical Union** *Nov 2018 - Dec 2018*
 
 **Soil Science Society of America** *Jun 2018 - Dec 2018*
+
+[Back to Top](#top)
 
 # Extracurricular
 ---
