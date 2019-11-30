@@ -8,12 +8,12 @@ title: Curriculum Vitae
 [Skills](#skills)  
 [Languages](#languages)  
 [Programs](#programs)  
-[Work Experience](#work experience)  
-[Teaching Experience](#teaching experience)  
-[Awards and Scholarships](#awards and scholarships)  
+[Work Experience](#work-experience)  
+[Teaching Experience](#teaching-experience)  
+[Awards and Scholarships](#awards-and-scholarships)  
 [Publications](#publications)  
 [Presenatations](#presentations)  
-[Professional Memberships](#professional memberships)  
+[Professional Memberships](#professional-memberships)  
 [Extracurricular](#extracurricular)  
 
 # Education
@@ -159,5 +159,5 @@ I managed the group’s finances and ensured surplus went to new gear for the cl
 *Sept 2016 - May 2019*  
 I mentor a group of freshmen each year to help them transition to college life, access valuable resources, and for career advice.
 
-
+[Back to Top](#curriculum-vitae)
 
