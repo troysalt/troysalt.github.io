@@ -12,7 +12,7 @@ title: Curriculum Vitae
 [Teaching Experience](#teaching-experience)  
 [Awards and Scholarships](#awards-and-scholarships)  
 [Publications](#publications)  
-[Presenatations](#presentations)  
+[Presentations](#presentations)  
 [Professional Memberships](#professional-memberships)  
 [Extracurricular](#extracurricular)  
 
@@ -45,10 +45,14 @@ title: Curriculum Vitae
 
 Image classification, geoprocessing, spatial data management, technical writing, field data collection, spatial statistics, research, professional communication, collaborative work
 
+[Back to Top](#top)
+
 # Languages
 ---
 
 Python, R, HTML, Markdown, Git, Linux command line
+
+[Back to Top](#top)
 
 # Programs
 ---
