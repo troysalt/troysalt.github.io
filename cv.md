@@ -39,18 +39,22 @@ title: Curriculum Vitae
 - Concentration: Advanced GIS, Spatial Statistics, Python Scripting, Matlab, Spatial Analysis, Spatial Data Management, Web GIS, Geological Remote Sensing
 
 # Skills
+---
 
 Image classification, geoprocessing, spatial data management, technical writing, field data collection, spatial statistics, research, professional communication, collaborative work
 
 # Languages
+---
 
 Python, R, HTML, Markdown, Git, Linux command line
 
 # Programs
+---
 
 ArcGIS (Pro, Desktop, Online), ENVI, Agisoft Metashape, CloudCompare, Microsoft Office (Excel, Word, PowerPoint), RStudio, Github, Joomla, WordPress, OpenStreetMap (iD, JOSM)
 
 # Work Experience
+---
 
 **GIS Analyst & Graduate Assistant** - University of Utah  
 Salt Lake City, UT | *Aug 2019 - Present*  
@@ -89,6 +93,7 @@ Glasgow, DE | *May 2016 - Oct 2016*
 I performed routine mosquito breeding surveillance and abatement activities (majority of time); collected West Nile and Eastern Equine Encephalitis Virus surveillance data; trapped for mosquitoes to later identify by genus and species; used handheld GPS and tablets for field data collections/record keeping; addressed citizen mosquito complaints; and conducted public education efforts on how communities and citizens can reduce mosquito breeding in and around their homes plus protect themselves from mosquito borne diseases.
 
 # Teaching Experience
+---
 
 **Teaching Assistant** - University of Delaware, English Language Institute  
 Newark, DE | *Jan 2019 - Apr 2019*  
@@ -99,6 +104,7 @@ Newark, DE | *Aug 2018 - Dec 2018*
 I was the peer mentor for the University’s Introduction to the Environment (ENSC101) course. It was my responsibility to help freshman students transition to college life on campus. I taught 12 class periods including academic skills, goal setting, safety and wellness, university resources, ethics, and more. 
 
 # Awards and Scholarships
+---
 
 **Marie Donaghay Outstanding Service Award** *May 2019* - University of Delaware, Dept. of Geography
 
@@ -113,10 +119,12 @@ I was the peer mentor for the University’s Introduction to the Environment (EN
 **Delaware Diplomats Scholarship** *January 2017* - University of Delaware, Institute for Global Studies
 
 # Publications
+---
 
 Gingrich, Jack B., **Saltiel, Troy M.**, Vincent, Zach T. (2019). A Survey for *Aedes Aegypti* in Delaware and the Virus-Positive Pool Rates of *Aedes Albopictus* and *Ochlerotatus Triseriatus* for West Nile and Zika Viruses. *Journal of the American Mosquito Control Association* 35 (2), 91-96.
 
 # Presentations
+---
 
 **Saltiel, Troy M.**, Cannon, Zach, O’Neal, Michael A., Pizzuto, James E., Hanson, Brian (Apr 2019). *The effects of freeze-thaw processes on river bank erosion in the White Clay Creek watershed of Delaware and Pennsylvania*. Poster presented at the 2019 American Association of Geographers Meeting in Washington, D.C.
 
@@ -131,6 +139,7 @@ Gingrich, Jack B., **Saltiel, Troy M.**, Vincent, Zach T. (Jan 2018). *A Survey 
 **Saltiel, Troy M.** (Nov 2017). *Open Data and the MapGive Initiative*. Oral presentation at the 2017 University of Delaware GIS Day, Newark, DE.
 
 # Professional Memberships
+---
 
 **American Association of Geographers** *Mar 2019 - Present*
 
@@ -139,6 +148,7 @@ Gingrich, Jack B., **Saltiel, Troy M.**, Vincent, Zach T. (Jan 2018). *A Survey 
 **Soil Science Society of America** *Jun 2018 - Dec 2018*
 
 # Extracurricular
+---
 
 **President** - Geology Club, University of Delaware  
 *Sept 2018 - May 2019*  
@@ -160,5 +170,5 @@ I managed the group’s finances and ensured surplus went to new gear for the cl
 *Sept 2016 - May 2019*  
 I mentor a group of freshmen each year to help them transition to college life, access valuable resources, and for career advice.
 
-[Back to Top](#curriculum-vitae)
+[Back to Top](#top)
 
