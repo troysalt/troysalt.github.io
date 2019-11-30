@@ -3,6 +3,9 @@ layout: page
 title: Curriculum Vitae
 ---
 
+**Jump to:**
+[Education](#education)
+
 # Education
 **University of Utah**, Salt Lake City, UT - Geography (MS)  
 *2019 - Present*
