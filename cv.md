@@ -160,7 +160,8 @@ Gingrich, Jack B., **Saltiel, Troy M.**, Vincent, Zach T. (Jan 2018). *A Survey 
 # Licenses & Certifications
 ---
 
-**Geologist in Training** *Apr  2019* National Association of State Boards of Geology (ASBOG)
+**Geologist in Training** - National Association of State Boards of Geology (ASBOG)  
+*Apr  2019*
 
 [Back to Top](#top)
 
