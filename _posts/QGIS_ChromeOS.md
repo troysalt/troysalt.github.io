@@ -36,8 +36,13 @@ Add the following text to the last line and save and exit the Apt sources list.
     deb https://qgis.org/debian stretch main
     deb-src https://qgis.org/debian stretch main
 
+Now run the same commands from earlier:
 
+    sudo apt update
+    sudo apt upgrade
+
+If suc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDMwODE5OSwtMTczNTEyMTQ2OCwtMT
-IzMDk0NDE4NiwtMTI0NTQ5NDU0MF19
+eyJoaXN0b3J5IjpbODMwNzIwNzIsLTE3MzUxMjE0NjgsLTEyMz
+A5NDQxODYsLTEyNDU0OTQ1NDBdfQ==
 -->
