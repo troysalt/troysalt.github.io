@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Install QGIS on a Chromebook
+subtitle: A quick guide.
 gh-repo: troysalt.github.io
 gh-badge: [star, fork, follow]
 tags: [QGIS, linux, debian]
