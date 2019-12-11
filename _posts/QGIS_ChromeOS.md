@@ -1,4 +1,12 @@
-### Install QGIS on a Chromebook
+---
+layout: post
+title: How to Install QGIS on a Chromebook
+gh-repo: troysalt.github.io
+gh-badge: [star, fork, follow]
+tags: [QGIS, linux, debian]
+comments: true
+---
+
 As Chromebooks become more powerful devices, they're becoming more capable of running intensive applications. With Linux (beta), the doors are open to many open-source programs. A couple of years ago, I never thought I would be running GIS analysis on my Chromebook, but here we are today.
 
 ### Prerequisites
