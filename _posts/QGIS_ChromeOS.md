@@ -16,7 +16,7 @@ If you don't care what version you get, then installation is very simple. Just o
     sudo apt-get upgrade
     sudo apt-get install QGIS
 
-Unfortunately this installs version 2.14 "Essen".  This version was released almost 4 years ago, so we'll have to add another repository to the [Apt sources list](https://wiki.debian.org/SourcesList) to get the latest version.
+Unfortunately this installs version 2.14 "Essen".  This version was released almost 4 years ago, so we'll have to add another repository to the [Apt sources list](https://wiki.debian.org/SourcesList) to get the latest version. This 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxMDI0NDE5LC0xMjQ1NDk0NTQwXX0=
+eyJoaXN0b3J5IjpbMTY0Mzg3Njc2OSwtMTI0NTQ5NDU0MF19
 -->
