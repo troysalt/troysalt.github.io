@@ -18,8 +18,12 @@ If you don't care what version you get, then installation is very simple. Just o
 
 Unfortunately this installs version 2.14 "Essen".  This version was released almost 4 years ago, so we'll have to add another repository to the [Apt sources list](https://wiki.debian.org/SourcesList) to get the latest version. This may be a bit intimidating, so please follow the instructions carefully.
 
-First,
+First, enter the Apt sources list:
+
+    sudo vi /etc/apt/sources.list
+
+You should see two standard repositories in this list. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTgzNDA4NiwtMTIzMDk0NDE4NiwtMT
+eyJoaXN0b3J5IjpbMTU3NzY1OTI4OSwtMTIzMDk0NDE4NiwtMT
 I0NTQ5NDU0MF19
 -->
