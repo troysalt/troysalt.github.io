@@ -37,7 +37,7 @@ This will take you to the vi text editor. You should see two standard repositori
 - 'ctrl + shift + v' will paste text
 - 'esc' will exit insert mode
 - ':wq' + 'enter' will save and exit the Apt sources list
-- 'esc' and type ':q!' if you think you messed up
+- 'esc' and type ':q!' to exit and discard changes
 
 Add the following text to the last two lines and save and exit the Apt sources list.
 
@@ -83,6 +83,6 @@ Enjoy!
 
 Please [contact me](https://troysalt.github.io/contact/) for any questions, comments, insights, or corrections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDE1ODQ2MCw3NjEwNzI0NTEsOTI3Mj
-YyMjQxXX0=
+eyJoaXN0b3J5IjpbLTEzNzgzMTIwODAsLTUyMDE1ODQ2MCw3Nj
+EwNzI0NTEsOTI3MjYyMjQxXX0=
 -->
