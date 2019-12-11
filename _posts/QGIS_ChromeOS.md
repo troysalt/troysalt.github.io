@@ -12,8 +12,8 @@ As Chromebooks become more powerful devices, they're becoming more capable of ru
 
 If you don't care what version you get, then installation is very simple. Just open the Terminal app (in the app drawer, under the "Linux Apps" folder), and type the following commands.
 
-    sudo apt-get update
-    sudo apt-get upgrade
+    sudo apt update
+    sudo apt upgrade
     sudo apt-get install QGIS
 
 Unfortunately this installs version 2.14 "Essen".  This version was released almost 4 years ago, so we'll have to add another repository to the [Apt sources list](https://wiki.debian.org/SourcesList) to get the latest version. This may be a bit intimidating, so please follow the instructions carefully.
@@ -29,10 +29,10 @@ This will take you to the vi text editor. You should see two standard repositori
 - 'ctrl + shift + v' will paste text
 - 'esc' will exit insert mode
 - ':wq' + 'enter' will save and exit the Apt sources list
-- 'esc'
+- 'esc' and type ':q!' if you think you messed up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1NjI0NDc1LC0xNzM1MTIxNDY4LC0xMj
-MwOTQ0MTg2LC0xMjQ1NDk0NTQwXX0=
+eyJoaXN0b3J5IjpbLTU1MTE5NDY3MSwtMTczNTEyMTQ2OCwtMT
+IzMDk0NDE4NiwtMTI0NTQ5NDU0MF19
 -->
