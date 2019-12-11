@@ -33,9 +33,11 @@ This will take you to the vi text editor. You should see two standard repositori
 
 Add the following text to the last line and save and exit the Apt sources list.
 
-    deb https://qgis.org/debian 
+    deb https://qgis.org/debian stretch main
+    deb-src https://qgis.org/debian stretch main
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4MjE1MTgsLTE3MzUxMjE0NjgsLTEyMz
-A5NDQxODYsLTEyNDU0OTQ1NDBdfQ==
+eyJoaXN0b3J5IjpbLTYyMDMwODE5OSwtMTczNTEyMTQ2OCwtMT
+IzMDk0NDE4NiwtMTI0NTQ5NDU0MF19
 -->
