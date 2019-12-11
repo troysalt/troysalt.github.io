@@ -63,11 +63,11 @@ This should output:
     pub   rsa4096 2019-08-08 [SCEA] [expires: 2020-08-08] 8D5A 5B20 3548 E500 4487  DD19 51F5 2351 1C70 28C3
     uid           [unknown] QGIS Archive Automatic Signing Key (2019) <qgis-developer@lists.osgeo.org>
 
-Now copy and past this to the terminal:
+Now copy and paste this to the terminal:
 
     gpg --export --armor 51F523511C7028C3 | sudo apt-key add -
 
-Let's make sure our repository has the latest release.
+Let's make sure we've done everything correctly, and that our repository has the latest release.
 
     sudo apt search qgis-common
 
@@ -83,6 +83,6 @@ Enjoy!
 
 Please [contact me](https://troysalt.github.io/contact/) for any questions, comments, insights, or corrections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzE3MDY2NzUsNzYxMDcyNDUxLDkyNz
-I2MjI0MV19
+eyJoaXN0b3J5IjpbLTUyMDE1ODQ2MCw3NjEwNzI0NTEsOTI3Mj
+YyMjQxXX0=
 -->
