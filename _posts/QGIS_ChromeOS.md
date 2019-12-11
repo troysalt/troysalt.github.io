@@ -29,9 +29,10 @@ This will take you to the vi text editor. You should see two standard repositori
 - 'ctrl + shift + v' will paste text
 - 'esc' will exit insert mode
 - ':wq' + 'enter' will save and exit the Apt sources list
+- 'esc'
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODQwMTU2NSwtMTczNTEyMTQ2OCwtMT
-IzMDk0NDE4NiwtMTI0NTQ5NDU0MF19
+eyJoaXN0b3J5IjpbNjQ1NjI0NDc1LC0xNzM1MTIxNDY4LC0xMj
+MwOTQ0MTg2LC0xMjQ1NDk0NTQwXX0=
 -->
