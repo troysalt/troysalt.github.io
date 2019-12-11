@@ -10,7 +10,10 @@ As Chromebooks become more powerful devices, they're becoming more capable of ru
 
 ### Installing QGIS
 
-If you 
+If you don't care what version you get, then installation is very simple. Just open the Terminal app (found 
+
+    sudo apt-get update
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzNDg4OTY4XX0=
+eyJoaXN0b3J5IjpbLTIwNTM1NjUwNTddfQ==
 -->
