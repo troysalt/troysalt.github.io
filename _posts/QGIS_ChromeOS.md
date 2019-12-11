@@ -69,8 +69,8 @@ This will output a few things, we're just interested one part.
   
 You'll notice the 3.4.4+14, if you see a different version, something went wrong. This is the version of QGIS in the repository, and is the latest Long Term Release (LTR). 
 
-Note that there is a newer version of QGIS (3.10.X). 
+Note that there is a newer version of QGIS (3.10.X). My guess is that the latest version is on the Debain 10 (buster) repository. Perhaps when ChromeOS is updated to Debian 10 (buster), 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxOTQxMzk1LC0xNzM1MTIxNDY4LC0xMj
-MwOTQ0MTg2LC0xMjQ1NDk0NTQwXX0=
+eyJoaXN0b3J5IjpbLTIxMDI1NDUwNTYsLTE3MzUxMjE0NjgsLT
+EyMzA5NDQxODYsLTEyNDU0OTQ1NDBdfQ==
 -->
