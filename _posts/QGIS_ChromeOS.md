@@ -48,8 +48,7 @@ If you get the following error, there is a mistake in your Apt source list.
 
 Before we can install QGIS, you'll need to add the repository key. In the terminal, copy and paste the following (remember to use ctrl+shift+v).
 
-    wget -O - https://qgis.org/downloads/qgis-2019.gpg.key | gpg --import
-gpg --fingerprint 51F523511C7028C3
+    wget -O - https://qgis.org/downloads/qgis-2019.gpg.key | gpg --import gpg --fingerprint 51F523511C7028C3
 
 This should output:
 
@@ -60,8 +59,8 @@ Now copy and past this to the terminal:
 
     gpg --export --armor 51F523511C7028C3 | sudo apt-key add -
 
-Finally, we can install QGIS
+Finally, we can install QGIS. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzc4NDUyOSwtMTczNTEyMTQ2OCwtMT
-IzMDk0NDE4NiwtMTI0NTQ5NDU0MF19
+eyJoaXN0b3J5IjpbMTMwOTU4MDQzLC0xNzM1MTIxNDY4LC0xMj
+MwOTQ0MTg2LC0xMjQ1NDk0NTQwXX0=
 -->
