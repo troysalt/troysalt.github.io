@@ -67,8 +67,8 @@ This will output a few things, we're just interested one part.
 
     qgis-common/stretch,now 1:3.4.4+14stretch all [installed,automatic] QGIS - architecture-independent data
   
-You'll notice the 3.4.4
+You'll notice the 3.4.4+14. This is the version of QGIS in the repository. This is the latest Long Term Release (LTR). According to the QGIS Installers website, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzQ5NzE4NzEsLTE3MzUxMjE0NjgsLT
+eyJoaXN0b3J5IjpbLTEwMTQ4MzM5NTMsLTE3MzUxMjE0NjgsLT
 EyMzA5NDQxODYsLTEyNDU0OTQ1NDBdfQ==
 -->
