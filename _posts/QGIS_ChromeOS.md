@@ -41,8 +41,13 @@ Now run the same commands from earlier:
     sudo apt update
     sudo apt upgrade
 
-If you 
+If you get the following error, there is a mistake in your Apt source list.
+
+    E: Malformed entry 5 in list file /etc/apt/sources.list (Component)
+    E: The list of sources could not be read.
+
+Before we can install QGIS, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzExNDY5MzQsLTE3MzUxMjE0NjgsLT
+eyJoaXN0b3J5IjpbLTE4NzQyNzc1NDksLTE3MzUxMjE0NjgsLT
 EyMzA5NDQxODYsLTEyNDU0OTQ1NDBdfQ==
 -->
