@@ -63,9 +63,12 @@ Let's make sure our repository has the latest release.
 
     sudo apt search qgis-common
 
-This will output a 
+This will output a few things, we're just interested one part.
 
+    qgis-common/stretch,now 1:3.4.4+14stretch all [installed,automatic] QGIS - architecture-independent data
+  
+You'll notice the 3.4.4
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjkxMDg2OCwtMTczNTEyMTQ2OCwtMT
-IzMDk0NDE4NiwtMTI0NTQ5NDU0MF19
+eyJoaXN0b3J5IjpbLTE1NzQ5NzE4NzEsLTE3MzUxMjE0NjgsLT
+EyMzA5NDQxODYsLTEyNDU0OTQ1NDBdfQ==
 -->
