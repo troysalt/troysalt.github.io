@@ -41,8 +41,8 @@ Now run the same commands from earlier:
     sudo apt update
     sudo apt upgrade
 
-If suc
+If you 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwNzIwNzIsLTE3MzUxMjE0NjgsLTEyMz
-A5NDQxODYsLTEyNDU0OTQ1NDBdfQ==
+eyJoaXN0b3J5IjpbLTE4MzExNDY5MzQsLTE3MzUxMjE0NjgsLT
+EyMzA5NDQxODYsLTEyNDU0OTQ1NDBdfQ==
 -->
