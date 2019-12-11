@@ -39,7 +39,7 @@ This will take you to the vi text editor. You should see two standard repositori
 - ':wq' + 'enter' will save and exit the Apt sources list
 - 'esc' and type ':q!' if you think you messed up
 
-Add the following text to the last line and save and exit the Apt sources list.
+Add the following text to the last two lines and save and exit the Apt sources list.
 
     deb https://qgis.org/debian stretch main
     deb-src https://qgis.org/debian stretch main
@@ -49,7 +49,7 @@ Now run the same commands from earlier:
     sudo apt update
     sudo apt upgrade
 
-If you get the following error, there is a mistake in your Apt source list.
+If you get the following error, there is a mistake in your Apt source list. Double-check that you entered everything correctly.
 
     E: Malformed entry 5 in list file /etc/apt/sources.list (Component)
     E: The list of sources could not be read.
@@ -83,5 +83,6 @@ Enjoy!
 
 Please [contact me](https://troysalt.github.io/contact/) for any questions, comments, insights, or corrections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxMDcyNDUxLDkyNzI2MjI0MV19
+eyJoaXN0b3J5IjpbLTE3MzE3MDY2NzUsNzYxMDcyNDUxLDkyNz
+I2MjI0MV19
 -->
