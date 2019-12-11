@@ -22,8 +22,10 @@ First, enter the Apt sources list:
 
     sudo vi /etc/apt/sources.list
 
-This will take you to the vi text editor. You should see two standard repositories in this list. 
+This will take you to the vi text editor. You should see two standard repositories in this list.  To use the vi editor, you'll need to know some commands
+
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzUxMjE0NjgsLTEyMzA5NDQxODYsLT
-EyNDU0OTQ1NDBdfQ==
+eyJoaXN0b3J5IjpbNDgxODE4MDEyLC0xNzM1MTIxNDY4LC0xMj
+MwOTQ0MTg2LC0xMjQ1NDk0NTQwXX0=
 -->
