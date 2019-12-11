@@ -16,6 +16,7 @@ If you don't care what version you get, then installation is very simple. Just o
     sudo apt-get upgrade
     sudo apt-get install QGIS
 
+Unfortunately this installs version 2.14 "Essen".  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjI3MjQ3N119
+eyJoaXN0b3J5IjpbLTEwNzgwMTM0NTJdfQ==
 -->
