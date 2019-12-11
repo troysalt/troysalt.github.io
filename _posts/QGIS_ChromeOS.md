@@ -73,8 +73,8 @@ Note that there is a newer version of QGIS (3.10.X). My guess is that the latest
 
 Enjoy!
 
-Please 
+Please [contact me](https://troysalt.github.io/contact/) for any questions, comments, insights, or corrections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTAwOTkxMCwtMTczNTEyMTQ2OCwtMT
+eyJoaXN0b3J5IjpbLTgwMzY1NTY4NiwtMTczNTEyMTQ2OCwtMT
 IzMDk0NDE4NiwtMTI0NTQ5NDU0MF19
 -->
