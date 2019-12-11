@@ -53,11 +53,15 @@ gpg --fingerprint 51F523511C7028C3
 
 This should output:
 
-    pub   rsa4096 2019-08-08 [SCEA] [expires: 2020-08-08]
-      8D5A 5B20 3548 E500 4487  DD19 51F5 2351 1C70 28C3
-uid           [unknown] QGIS Archive Automatic Signing Key (2019) <qgis-developer@lists.osgeo.org>
+    pub   rsa4096 2019-08-08 [SCEA] [expires: 2020-08-08] 8D5A 5B20 3548 E500 4487  DD19 51F5 2351 1C70 28C3
+    uid           [unknown] QGIS Archive Automatic Signing Key (2019) <qgis-developer@lists.osgeo.org>
 
+Now copy and past this to the terminal:
+
+    gpg --export --armor 51F523511C7028C3 | sudo apt-key add -
+
+Finally, we can install QGIS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzI0MTI2MywtMTczNTEyMTQ2OCwtMT
+eyJoaXN0b3J5IjpbLTIwMzc4NDUyOSwtMTczNTEyMTQ2OCwtMT
 IzMDk0NDE4NiwtMTI0NTQ5NDU0MF19
 -->
