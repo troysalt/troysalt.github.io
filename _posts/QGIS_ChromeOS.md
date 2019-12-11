@@ -31,8 +31,11 @@ This will take you to the vi text editor. You should see two standard repositori
 - ':wq' + 'enter' will save and exit the Apt sources list
 - 'esc' and type ':q!' if you think you messed up
 
+Add the following text to the last line and save and exit the Apt sources list.
+
+    deb https://qgis.org/debian 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTE5NDY3MSwtMTczNTEyMTQ2OCwtMT
-IzMDk0NDE4NiwtMTI0NTQ5NDU0MF19
+eyJoaXN0b3J5IjpbNTY4MjE1MTgsLTE3MzUxMjE0NjgsLTEyMz
+A5NDQxODYsLTEyNDU0OTQ1NDBdfQ==
 -->
