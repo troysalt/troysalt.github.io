@@ -59,12 +59,12 @@ Now copy and past this to the terminal:
 
     gpg --export --armor 51F523511C7028C3 | sudo apt-key add -
 
-Finally, we can install QGIS. 
+Let's make sure our repository has the latest release.
 
-    sudo apt update
-    
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjEwMDY3NCwtMTczNTEyMTQ2OCwtMT
+eyJoaXN0b3J5IjpbLTY0Mjc0MzIwNiwtMTczNTEyMTQ2OCwtMT
 IzMDk0NDE4NiwtMTI0NTQ5NDU0MF19
 -->
