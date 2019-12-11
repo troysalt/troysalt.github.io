@@ -46,8 +46,18 @@ If you get the following error, there is a mistake in your Apt source list.
     E: Malformed entry 5 in list file /etc/apt/sources.list (Component)
     E: The list of sources could not be read.
 
-Before we can install QGIS, 
+Before we can install QGIS, you'll need to add the repository key. In the terminal, copy and paste the following (remember to use ctrl+shift+v).
+
+    wget -O - https://qgis.org/downloads/qgis-2019.gpg.key | gpg --import
+gpg --fingerprint 51F523511C7028C3
+
+This should output:
+
+    pub   rsa4096 2019-08-08 [SCEA] [expires: 2020-08-08]
+      8D5A 5B20 3548 E500 4487  DD19 51F5 2351 1C70 28C3
+uid           [unknown] QGIS Archive Automatic Signing Key (2019) <qgis-developer@lists.osgeo.org>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQyNzc1NDksLTE3MzUxMjE0NjgsLT
-EyMzA5NDQxODYsLTEyNDU0OTQ1NDBdfQ==
+eyJoaXN0b3J5IjpbLTQ4MzI0MTI2MywtMTczNTEyMTQ2OCwtMT
+IzMDk0NDE4NiwtMTI0NTQ5NDU0MF19
 -->
