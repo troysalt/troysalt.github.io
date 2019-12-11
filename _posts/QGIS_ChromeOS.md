@@ -24,8 +24,9 @@ First, enter the Apt sources list:
 
 This will take you to the vi text editor. You should see two standard repositories in this list.  To use the vi editor, you'll need to know some commands
 
-- 
+- 'shift + g' will move the cursor to the end of the line
+- 'o' will add a new line
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxODE4MDEyLC0xNzM1MTIxNDY4LC0xMj
-MwOTQ0MTg2LC0xMjQ1NDk0NTQwXX0=
+eyJoaXN0b3J5IjpbLTQ3ODY2MTk0MywtMTczNTEyMTQ2OCwtMT
+IzMDk0NDE4NiwtMTI0NTQ5NDU0MF19
 -->
