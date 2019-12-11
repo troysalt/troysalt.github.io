@@ -61,11 +61,11 @@ Now copy and past this to the terminal:
 
 Let's make sure our repository has the latest release.
 
-    sudo apt search QGIS
+    sudo apt search qgis-common
 
 This will output a 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0Mjc2MzI2NCwtMTczNTEyMTQ2OCwtMT
+eyJoaXN0b3J5IjpbLTQxNjkxMDg2OCwtMTczNTEyMTQ2OCwtMT
 IzMDk0NDE4NiwtMTI0NTQ5NDU0MF19
 -->
