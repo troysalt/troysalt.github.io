@@ -30,7 +30,7 @@ title: Curriculum Vitae
 **University of Delaware**, Newark, DE - Geographic Information Science (Graduate Certificate)  
 *2017 - 2019*
 
-- Concentration: Advanced GIS, Spatial Statistics, Python Scripting, Matlab, Spatial Analysis, Spatial Data Management, Web GIS, Geological Remote Sensing
+- Selected Coursework: Advanced GIS, Spatial Statistics, Python Scripting, Matlab, Spatial Analysis, Spatial Data Management, Web GIS, Geological Remote Sensing
 
 **University of Delaware**, Newark, DE - Environmental Science (BS) *cum laude*  
 *2015 - 2019*
