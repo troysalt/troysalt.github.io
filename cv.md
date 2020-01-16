@@ -58,7 +58,7 @@ Python, R, HTML, Markdown, Git, Linux command line
 # Programs
 ---
 
-ArcGIS (Pro, Desktop, Online), ENVI, Agisoft Metashape, CloudCompare, Microsoft Office (Excel, Word, PowerPoint), RStudio, Github, Joomla, WordPress, OpenStreetMap (iD, JOSM)
+ArcGIS (Pro, Desktop, Online), ENVI, Agisoft Metashape, CloudCompare, Microsoft Office (Excel, Word, PowerPoint), RStudio, Github, QGIS, ImageJ/FIJI, Joomla, WordPress, OpenStreetMap (iD, JOSM)
 
 [Back to Top](#top)
 
