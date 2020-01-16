@@ -28,14 +28,14 @@ title: Curriculum Vitae
 - Selected Coursework: Advanced Optical Remote Sensing, Advanced Geographic Data Analysis, Advanced Active Remote Sensing, Remote Sensing Analysis, Intro to Data Science, Open Source GIS
 
 **University of Delaware**, Newark, DE - Environmental Science (BS) *cum laude*  
-*2019 - Present*
+*2015 - 2019*
 
 - Concentration: The Critical Zone (soil, geology, climate)
 - Minors: Geography, Geology
 - Selected Coursework: Alpine Field Methods, Sedimentology and Stratigraphy, Physical Climatology, Soil Physics, Surficial Processes, Climate and Climate Change, Earth Materials, Earth Systems: Science & Policy, Intro to Ocean Sciences, General Computer Science for Engineers, Statistics for Marine Sciences
 
 **University of Delaware**, Newark, DE - Geographic Information Science (Graduate Certificate)  
-*2019 - Present*
+*2017 - 2019*
 
 - Concentration: Advanced GIS, Spatial Statistics, Python Scripting, Matlab, Spatial Analysis, Spatial Data Management, Web GIS, Geological Remote Sensing
 
