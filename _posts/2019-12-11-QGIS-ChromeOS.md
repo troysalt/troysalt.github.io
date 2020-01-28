@@ -11,10 +11,20 @@ As Chromebooks become more powerful devices, they're becoming more capable of ru
 
 ### Prerequisites
 
-- Linux (beta) needs to be installed on your Chromebook. This is a relatively straight-forward process, for instructions, see [this Google support page](https://support.google.com/chromebook/answer/9145439?hl=en).
 - I would recommend at least a Core m3 processor, 8 GB of RAM, and 64 GB of storage. *You can install QGIS on lesser machines, but the you'll likely have issues with large data sets*. I've installed QGIS on both a Pixel Slate (m3 8th gen, 8 GB of RAM, 64 GB of storage) and an HP X2 (m3 7th gen, 4 GB of RAM, 32 GB of storage).
 - Either know the Linux terminal, or be ready to learn something completely new. You can always change your mind on Linux by uninstalling Linux through the settings.
-- Know that Linux in ChromeOS currently runs on Debian 9 (codenamed "stretch") as of December 2019. However, there are rumors a future release may include Debian 10 ("buster"). This is important when you choose the package you're installing.
+
+**If you have not installed Linux yet:**
+
+- As of Feburary 2020, most Chromebooks default to a version of Linux called Debian 9 ("stretch"). However, with ChromeOS 80, there is a new flag which will install Debian 10 ("buster"). To get the latest install of QGIS, you'll want to make sure this flag is enabled (type chrome://flags in a new tab, and search for "buster", then make sure the "New Crostini containers use Buster" flag is enabled).
+- Now you're ready to install Linux (beta) on your chromebook. This is a relatively straight-forward process, for instructions, see [this Google support page](https://support.google.com/chromebook/answer/9145439?hl=en).
+
+**If you have already installed Linux:**
+
+- If you are not sure what version you have, open the Terminal app and type: cat /etc/issue and press enter. It should say Debian GNU/ Linux 10 (or 9).
+- If you want QGIS 3.10, you'll need to be on Debian 10. Otherwise, you'll get QGIS 3.4.
+- You can manually upgrade from Debian 9 to 10. Before proceeding, I recommend backing up your Linux container through the ChromeOS settings, just in case anything goes wrong. 
+- To upgrade follow the instructions on [this reddit post](https://www.reddit.com/r/Crostini/comments/9rhauo/upgrade_from_stretch_to_buster_compilation_of/?ref=share&ref_source=embed&utm_content=title&utm_medium=post_embed&utm_name=7ea9b5b4d8ee49bc9a7501dc0cc3df15&utm_source=embedly&utm_term=9rhauo). Note that you should only need to execute the first code block, I had no issues with the ChromeOS files app (the Reddit post was written before the ChromeOS team polished things).
 
 ### Installing QGIS
 
@@ -41,8 +51,8 @@ This will take you to the vi text editor. You should see two standard repositori
 
 Add the following text to the last two lines and save and exit the Apt sources list.
 
-    deb https://qgis.org/debian stretch main
-    deb-src https://qgis.org/debian stretch main
+    deb https://qgis.org/debian buster main
+    deb-src https://qgis.org/debian buster main
 
 Now run the same commands from earlier:
 
@@ -69,15 +79,14 @@ Now copy and paste this to the terminal:
 
 Let's make sure we've done everything correctly, and that our repository has the latest release.
 
-    sudo apt search qgis-common
+    apt-cache policy qgis
 
 This will output a few things, we're just interested one part.
 
-    qgis-common/stretch,now 1:3.4.4+14stretch all [installed,automatic] QGIS - architecture-independent data
+    Installed: 1:3.10.2+15buster
+    Candidate: 1:3.10.2+15buster
   
-You'll notice the 3.4.4+14, if you see a different version, something went wrong. This is the version of QGIS in the repository, and is the latest Long Term Release (LTR). 
-
-Note that there is a newer version of QGIS (3.10.X). My guess is that the latest version is on the Debain 10 (buster) repository. Perhaps when ChromeOS is updated to Debian 10 (buster), we'll be able to update to the latest release.
+This confirms we installed QGIS 3.10. If you see a different version, something went wrong.
 
 Enjoy!
 
