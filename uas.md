@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Image Classification with sUAS
+title: Image Classification with UAS
+bigimg:
+  - "/img/uas/phrag.jpg" : "Phragmites and native bulrush at the Great Salt Lake (2019)"
 ---
 
 **Project Statement**
