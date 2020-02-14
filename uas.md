@@ -6,7 +6,7 @@ title: Image Classification with sUAS
 **Project Statement**
 
 *Phragmites australis* near the Great Salt Lake, UT will be classified with
-machine learning techniques, utilizing fine-resolution multispectral imagery, in order
+machine learning techniques by utilizing fine-resolution multispectral imagery, in order
 to assist the Utah Department of Natural Resources in elminating the invasive species 
 from the state.
 
