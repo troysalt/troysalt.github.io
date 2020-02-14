@@ -44,7 +44,7 @@ title: Curriculum Vitae
 # Skills
 ---
 
-Image classification, geoprocessing, spatial data management, technical writing, field data collection, spatial statistics, research, professional communication, collaborative work
+Image classification, geoprocessing, spatial data management, technical writing, field data collection,  geostatistics, data science, research, professional communication, collaborative work
 
 [Back to Top](#top)
 
@@ -99,7 +99,7 @@ Conducted a study on Aedes aegypti and Ae. albopictus which are vectors of the Z
 
 **Biological Aide** - Delaware Department of Natural Resources (DNREC), Mosquito Control Section  
 Glasgow, DE | *May 2016 - Oct 2016*  
-I performed routine mosquito breeding surveillance and abatement activities (majority of time); collected West Nile and Eastern Equine Encephalitis Virus surveillance data; trapped for mosquitoes to later identify by genus and species; used handheld GPS and tablets for field data collections/record keeping; addressed citizen mosquito complaints; and conducted public education efforts on how communities and citizens can reduce mosquito breeding in and around their homes plus protect themselves from mosquito borne diseases.
+Performed routine mosquito breeding surveillance and abatement activities (majority of time); collected West Nile and Eastern Equine Encephalitis Virus surveillance data; trapped for mosquitoes to later identify by genus and species; used handheld GPS and tablets for field data collections/record keeping; addressed citizen mosquito complaints; and conducted public education efforts on how communities and citizens can reduce mosquito breeding in and around their homes plus protect themselves from mosquito borne diseases.
 
 [Back to Top](#top)
 
@@ -142,6 +142,7 @@ Gingrich, Jack B., **Saltiel, Troy M.**, Vincent, Zach T. (2019). A Survey for *
 
 # Presentations
 ---
+**Saltiel, Troy M.** (Apr 2020). *Tracking the hydrologic effects of road networks in the Fish Creek Watershed, Umpqua National Forest, Oregon: towards better management*. Poster to be presented at the 2020 American Association of Geographers Meeting in Denver, CO.
 
 **Saltiel, Troy M.**, Cannon, Zach, O’Neal, Michael A., Pizzuto, James E., Hanson, Brian (Apr 2019). *The effects of freeze-thaw processes on river bank erosion in the White Clay Creek watershed of Delaware and Pennsylvania*. Poster presented at the 2019 American Association of Geographers Meeting in Washington, D.C.
 
@@ -178,14 +179,17 @@ Gingrich, Jack B., **Saltiel, Troy M.**, Vincent, Zach T. (Jan 2018). *A Survey 
 
 # Extracurricular
 ---
+**President** - Geography Club, University of Utah  
+*Jan 2020- Present*  
+Revised the club's constitution, organized club events and created new activities. Currently working to become a YouthMappers chapter.
 
 **President** - Geology Club, University of Delaware  
 *Sept 2018 - May 2019*  
-I organized meetings, club events, and partnerships and managed the executive board. Our club gathered over 100 sign-ups this year, after a decrease in attendance last year. Trips include educational camping and hiking trips, rockhounding, and caving. I also formed a new partnership with the Delaware Mineral Society to join their trips throughout the year.
+Organized meetings, club events, partnerships, and managed the executive board. Our club gathered over 100 sign-ups this year, after a decrease in attendance the year before. Trips included educational camping and hiking trips, rockhounding, and caving. I also formed a new partnership with the Delaware Mineral Society to join their trips throughout the year.
 
 **Member** - Engineers Without Borders, University of Delaware  
 *June 2017 - May 2019*  
-I produced a site plan map for the Philippines and Malawi projects and helped produce and edit an implementation report for a water distribution system.
+Produced a site plan map for the Philippines and Malawi projects and helped produce and edit an implementation report for a water distribution system.
 
 **Secretary** - American Meteorological Society Student Chapter at the University of Delaware  
 *Sept 2017 - May 2018*  
@@ -193,11 +197,11 @@ I was responsible for communications in the club, including email updates, meeti
 
 **Treasurer** - Geology Club, University of Delaware  
 *Sept 2017 - May 2018*  
-I managed the group’s finances and ensured surplus went to new gear for the club, which we will use during the 2018-2019 academic year.
+Managed the group’s finances and ensured surplus went to new gear for the club, which we utilized during the following academic year.
 
 **Environmentor** - University of Delaware, College of Earth, Ocean, and Environment  
 *Sept 2016 - May 2019*  
-I mentor a group of freshmen each year to help them transition to college life, access valuable resources, and for career advice.
+Montored a group of freshmen each year to help them transition to college life, access valuable resources, and for career advice.
 
 [Back to Top](#top)
 
