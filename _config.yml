@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   CV: "cv"
   Projects:
-    - Image Classification: "uas.md"
+    - Image Classification: uas.md
     - Photogrammetry: "https://aag.secure-abstracts.com/AAG%20Annual%20Meeting%202019/abstracts-gallery/23419"
     - Soil Physics: "https://scisoc.confex.com/scisoc/2019sssa/meetingapp.cgi/Paper/115513"
     - Mosquito Vector Survey: "https://www.ncbi.nlm.nih.gov/pubmed/31442131"
