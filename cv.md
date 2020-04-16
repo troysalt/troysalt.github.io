@@ -10,6 +10,7 @@ title: Curriculum Vitae
 [Programs](#programs)  
 [Work Experience](#work-experience)  
 [Teaching Experience](#teaching-experience)  
+[Volunteer Experience](#volunteer-experience)  
 [Awards and Scholarships](#awards-and-scholarships)  
 [Publications](#publications)  
 [Presentations](#presentations)  
@@ -113,6 +114,15 @@ I was a teaching assistant for the Geological Hazards Lab Section (GEOL115). The
 **Peer Mentor** - University of Delaware, First Year Seminar  
 Newark, DE | *Aug 2018 - Dec 2018*  
 I was the peer mentor for the University’s Introduction to the Environment (ENSC101) course. It was my responsibility to help freshman students transition to college life on campus. I taught 12 class periods including academic skills, goal setting, safety and wellness, university resources, ethics, and more. 
+
+[Back to Top](#top)
+
+# Volunteer Experience
+---
+
+**Data Quality Intern** - Humanitarian OpenStreetMap Team
+Remote | *Mar 2020 - May 2020*  
+I contribute to projects on the Humanitarian OpenStreetMap Team's tasking manager, where humanitarian organizations, such as the Red Cross and Médecins Sans Frontières (Doctors Without Borders), request map data to help plan and implement aid campaigns. I've completed 152 tasks and validated 27, including 2,432 buildings and 150 km of road added to the map. I also organize humanitarian mapping events ('Mapathons'), where I teach new volunteers how to map, and we contribute to a selected campaign. I've taught more than 100 new volunteers how to map since Sept 2017.
 
 [Back to Top](#top)
 
