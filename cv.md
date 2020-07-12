@@ -66,6 +66,9 @@ ArcGIS (Pro, Desktop, Online), ENVI, Agisoft Metashape, CloudCompare, Microsoft 
 # Work Experience
 ---
 
+**Geospatial & Imagery Analyst - Master's Intern** - Pacific Northwest National Lab 
+Richland, WA | *July 2020 - Present*  
+
 **GIS Analyst & Graduate Assistant** - University of Utah  
 Salt Lake City, UT | *Aug 2019 - Present*  
 At the DIGIT GIS Lab, I produce deliverables for federal, state, and local government agencies, and private entities such as: the National Park Service, Collins Aerospace, and the Utah DNR. My work includes image classification, data mining, QA/QC, data management, and more.
