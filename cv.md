@@ -26,7 +26,7 @@ title: Curriculum Vitae
 - Advisor: Dr. Phil Dennison
 - Concentration: Remote Sensing and GIS
 - Affiliations: Utah Remote Sensing and Applications (URSA) and Digitally Integrated Geographic Information Technology (DIGIT) Labs
-- Selected Coursework: Advanced Optical Remote Sensing, Advanced Geographic Data Analysis, Advanced Active Remote Sensing, Remote Sensing Analysis, Intro to Data Science, Open Source GIS
+- Selected Coursework: Advanced Optical Remote Sensing, Advanced Geographic Data Analysis, Advanced Active Remote Sensing, Remote Sensing Analysis, Intro to Data Science, Open Source GIS, Geospatial Big Data, Data Visualization
 
 **University of Delaware**, Newark, DE - Geographic Information Science (Graduate Certificate)  
 *2017 - 2019*
@@ -52,7 +52,7 @@ Image classification, geoprocessing, spatial data management, technical writing,
 # Languages
 ---
 
-Python, R, HTML, Markdown, Git, Linux command line
+Python, R, JavaScript & D3, HTML, Markdown, Git, Linux command line
 
 [Back to Top](#top)
 
@@ -68,6 +68,7 @@ ArcGIS (Pro, Desktop, Online), ENVI, Agisoft Metashape, CloudCompare, Microsoft 
 
 **Geospatial & Imagery Analyst - Master's Intern** - Pacific Northwest National Lab 
 Richland, WA | *July 2020 - Present*  
+I am part of the Geospatial Science, Analytics, and Geointelligence Team in the Earth Systems Science Division. I work with remotely sensed LiDAR and Hyperspectral data, data processing, data quality analyses, and classification.
 
 **GIS Analyst & Graduate Assistant** - University of Utah  
 Salt Lake City, UT | *Aug 2019 - Present*  
@@ -149,25 +150,25 @@ I contribute to projects on the Humanitarian OpenStreetMap Team's tasking manage
 # Publications
 ---
 
-Gingrich, Jack B., **Saltiel, Troy M.**, Vincent, Zach T. (2019). A Survey for *Aedes Aegypti* in Delaware and the Virus-Positive Pool Rates of *Aedes Albopictus* and *Ochlerotatus Triseriatus* for West Nile and Zika Viruses. *Journal of the American Mosquito Control Association* 35 (2), 91-96.
+Gingrich Jack B., **Saltiel Troy M.**, Vincent Zach T. (2019). A Survey for *Aedes Aegypti* in Delaware and the Virus-Positive Pool Rates of *Aedes Albopictus* and *Ochlerotatus Triseriatus* for West Nile and Zika Viruses. *Journal of the American Mosquito Control Association* 35 (2), 91-96.
 
 [Back to Top](#top)
 
 # Presentations
 ---
-**Saltiel, Troy M.** (Apr 2020). *Tracking the hydrologic effects of road networks in the Fish Creek Watershed, Umpqua National Forest, Oregon: towards better management*. Poster to be presented at the 2020 American Association of Geographers Meeting in Denver, CO.
+**Saltiel Troy M.**, Dennison Philip E., Hambrecht Keith (Dec 2020). *Invasive Species Monitoring with Fine-Resolution Multispectral sUAS-acquired Imagery and a Deep Neural Network Classifier*. Poster presented at the 2020 American Geophysical Union (AGU) meeting virtually.
 
-**Saltiel, Troy M.**, Cannon, Zach, O’Neal, Michael A., Pizzuto, James E., Hanson, Brian (Apr 2019). *The effects of freeze-thaw processes on river bank erosion in the White Clay Creek watershed of Delaware and Pennsylvania*. Poster presented at the 2019 American Association of Geographers Meeting in Washington, D.C.
+**Saltiel Troy M.**, Cannon Zach, O’Neal Michael A., Pizzuto James E., Hanson, Brian (Apr 2019). *The effects of freeze-thaw processes on river bank erosion in the White Clay Creek watershed of Delaware and Pennsylvania*. Poster presented at the 2019 American Association of Geographers Meeting in Washington, D.C.
 
-**Saltiel, Troy M.**, Amoozegar, Aziz, Heitman, Josh (Jan 2019). *Comparison of NRCS Infiltration Test Method for Soil Quality to Other Procedures*. Poster presented at the 2018-2019 SSSA International Soils Meeting, San Diego, CA.
+**Saltiel Troy M.**, Amoozegar Aziz, Heitman Josh (Jan 2019). *Comparison of NRCS Infiltration Test Method for Soil Quality to Other Procedures*. Poster presented at the 2018-2019 SSSA International Soils Meeting, San Diego, CA.
 
-**Saltiel, Troy M.** (Nov 2018). *Mapathons: Using OpenStreetMap to Benefit Humanitarian Aid*. Oral presentation   at the 2018 University of Delaware GIS Day, Newark, DE.
+**Saltiel Troy M.** (Nov 2018). *Mapathons: Using OpenStreetMap to Benefit Humanitarian Aid*. Oral presentation at the 2018 University of Delaware GIS Day, Newark, DE.
 
-**Saltiel, Troy M.**, Amoozegar, Aziz, Heitman, Josh (Jul 2018). *Comparison of NRCS Infiltration Test Method for Soil Quality to Other Procedures*. Poster presented at NC State Undergraduate Research Symposium, NC State University, Raleigh, NC.
+**Saltiel Troy M.**, Amoozegar Aziz, Heitman Josh (Jul 2018). *Comparison of NRCS Infiltration Test Method for Soil Quality to Other Procedures*. Poster presented at NC State Undergraduate Research Symposium, NC State University, Raleigh, NC.
 
-Gingrich, Jack B., **Saltiel, Troy M.**, Vincent, Zach T. (Jan 2018). *A Survey for Aedes Aegypti in Delaware and the Virus-Positive Pool Rates of Aedes Albopictus and Ochlerotatus Triseriatus for West Nile and Zika Viruses*. Poster presented at the Delaware Wetlands Conference, Wilmington, DE.
+Gingrich Jack B., **Saltiel Troy M.**, Vincent Zach T. (Jan 2018). *A Survey for Aedes Aegypti in Delaware and the Virus-Positive Pool Rates of Aedes Albopictus and Ochlerotatus Triseriatus for West Nile and Zika Viruses*. Poster presented at the Delaware Wetlands Conference, Wilmington, DE.
 
-**Saltiel, Troy M.** (Nov 2017). *Open Data and the MapGive Initiative*. Oral presentation at the 2017 University of Delaware GIS Day, Newark, DE.
+**Saltiel Troy M.** (Nov 2017). *Open Data and the MapGive Initiative*. Oral presentation at the 2017 University of Delaware GIS Day, Newark, DE.
 
 [Back to Top](#top)
 
@@ -184,7 +185,7 @@ Gingrich, Jack B., **Saltiel, Troy M.**, Vincent, Zach T. (Jan 2018). *A Survey 
 
 **American Association of Geographers** *Mar 2019 - Present*
 
-**American Geophysical Union** *Nov 2018 - Dec 2018*
+**American Geophysical Union** *Nov 2018 - Present*
 
 **Soil Science Society of America** *Jun 2018 - Dec 2018*
 
@@ -194,7 +195,7 @@ Gingrich, Jack B., **Saltiel, Troy M.**, Vincent, Zach T. (Jan 2018). *A Survey 
 ---
 **President** - Geography Club, University of Utah  
 *Jan 2020- Present*  
-Revised the club's constitution, organized club events and created new activities. Currently working to become a YouthMappers chapter.
+Revised the club's constitution, organized club events and created new activities. Established the club as a YouthMappers chapter.
 
 **President** - Geology Club, University of Delaware  
 *Sept 2018 - May 2019*  
