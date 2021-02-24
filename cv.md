@@ -26,7 +26,7 @@ title: Curriculum Vitae
 - Advisor: Dr. Phil Dennison
 - Concentration: Remote Sensing and GIS
 - Affiliations: Utah Remote Sensing and Applications (URSA) and Digitally Integrated Geographic Information Technology (DIGIT) Labs
-- Selected Coursework: Advanced Optical Remote Sensing, Advanced Geographic Data Analysis, Advanced Active Remote Sensing, Remote Sensing Analysis, Intro to Data Science, Open Source GIS, Geospatial Big Data, Data Visualization
+- Selected Coursework: Advanced Optical Remote Sensing, Advanced Geographic Data Analysis, Advanced Active Remote Sensing, Remote Sensing Analysis, Intro to Data Science, Open Source GIS, Geospatial Big Data, Data Visualization, Geovisualization
 
 **University of Delaware**, Newark, DE - Geographic Information Science (Graduate Certificate)  
 *2017 - 2019*
