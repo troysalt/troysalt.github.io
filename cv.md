@@ -75,8 +75,8 @@ Salt Lake City, UT | *Aug 2019 - Present*
 At the DIGIT GIS Lab, I produce deliverables for federal, state, and local government agencies, and private entities such as: the National Park Service, Collins Aerospace, and the Utah DNR. My work includes image classification, data mining, QA/QC, data management, and more.
 
 **Digital Marketing** - Avkin  
-New Castle, DE | *Mar 2016 - Present*  
-I focus on updating the website, digital advertising, partnerships with outside consultants, and evaluating marketing campaigns. I routinely create visual reports and communicate with the executive board.
+New Castle, DE | *Mar 2016 - Dec 2020*  
+Focused on updating the website, digital advertising, partnerships with outside consultants, and evaluating marketing campaigns. Routinely created visual reports and communicated with the executive board.
 
 **Geomorphic Roads Analysis and Inventory Package Intern** - US Forest Service (via Aerotek)  
 Glide, OR | *Jun 2019 - Aug 2019*  
