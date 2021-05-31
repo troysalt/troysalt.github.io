@@ -21,7 +21,7 @@ title: Curriculum Vitae
 # Education
 ---
 **University of Utah**, Salt Lake City, UT - Geography (MS)  
-*2019 - Present*
+*2019 - 2021*
 
 - Advisor: Dr. Phil Dennison
 - Concentration: Remote Sensing and GIS
@@ -65,10 +65,12 @@ ArcGIS (Pro, Desktop, Online), ENVI, Agisoft Metashape, CloudCompare, Microsoft 
 
 # Work Experience
 ---
+**Post Masters Research Associate (Geospatial Data Science)** - Pacific Northwest National Lab 
+Richland, WA | *June 2021 - Present*  
+I am part of the Geospatial Science, Analytics, and Geointelligence Team in the Earth Systems Science Division. I work with remotely sensed geospatial data (fine-resolution RGB, LiDAR, and hyperspectral data) including data processing, data quality analyses, and production of classification maps, elevation and canopy height models. I integrate modern machine learning techniques such as random forest, support vector machine, and convolutional neural networks to extract important information from datasets. My focus area is in remote sensing of vegetation and natural disasters (i.e. wildfires).
 
 **Geospatial & Imagery Analyst - Master's Intern** - Pacific Northwest National Lab 
-Richland, WA | *July 2020 - Present*  
-I am part of the Geospatial Science, Analytics, and Geointelligence Team in the Earth Systems Science Division. I work with remotely sensed LiDAR and Hyperspectral data, data processing, data quality analyses, and classification.
+Richland, WA | *July 2020 - May 2021*  
 
 **GIS Analyst & Graduate Assistant** - University of Utah  
 Salt Lake City, UT | *Aug 2019 - Present*  
