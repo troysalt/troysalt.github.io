@@ -196,7 +196,7 @@ Gingrich Jack B., **Saltiel Troy M.**, Vincent Zach T. (Jan 2018). *A Survey for
 # Extracurricular
 ---
 **President** - Geography Club, University of Utah  
-*Jan 2020- Present*  
+*Jan 2020- May 2021*  
 Revised the club's constitution, organized club events and created new activities. Established the club as a YouthMappers chapter.
 
 **President** - Geology Club, University of Delaware  
