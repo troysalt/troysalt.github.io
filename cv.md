@@ -45,7 +45,7 @@ title: Curriculum Vitae
 # Skills
 ---
 
-Image classification, geoprocessing, spatial data management, technical writing, field data collection,  geostatistics, data science, research, professional communication, collaborative work
+Image classification, geoprocessing, spatial data management, technical writing, field data collection,  geostatistics, data science, research
 
 [Back to Top](#top)
 
@@ -67,14 +67,14 @@ ArcGIS (Pro, Desktop, Online), ENVI, Agisoft Metashape, CloudCompare, Microsoft 
 ---
 **Post Masters Research Associate (Geospatial Data Science)** - Pacific Northwest National Lab 
 Richland, WA | *June 2021 - Present*  
-I am part of the Geospatial Science, Analytics, and Geointelligence Team in the Earth Systems Science Division. I work with remotely sensed geospatial data (fine-resolution RGB, LiDAR, and hyperspectral data) including data processing, data quality analyses, and production of classification maps, elevation and canopy height models. I integrate modern machine learning techniques such as random forest, support vector machine, and convolutional neural networks to extract important information from datasets. My focus area is in remote sensing of vegetation and natural disasters (i.e. wildfires).
+I specialize in geospatial data analysis, with current and past projects involving renewable energy, carbon capture, natural disasters (wildfire, tropical cyclones), and vegetation/ecosystem monitoring. I have expertise in remotely sensed data (fine to very-fine RGB, LiDAR, and hyperspectral) and apply modern machine learning techniques, such as random forest, support vector machine, and convolutional neural networks, to extract important information from imagery.
 
 **Geospatial & Imagery Analyst - Master's Intern** - Pacific Northwest National Lab 
 Richland, WA | *July 2020 - May 2021*  
 
 **GIS Analyst & Graduate Assistant** - University of Utah  
-Salt Lake City, UT | *Aug 2019 - Present*  
-At the DIGIT GIS Lab, I produce deliverables for federal, state, and local government agencies, and private entities such as: the National Park Service, Collins Aerospace, and the Utah DNR. My work includes image classification, data mining, QA/QC, data management, and more.
+Salt Lake City, UT | *Aug 2019 - May 2021*  
+At the DIGIT GIS Lab, I produced deliverables for federal, state, and local government agencies, and private entities such as: the National Park Service, Collins Aerospace, and the Utah DNR. My work included image classification, data mining, QA/QC, data management, and more.
 
 **Digital Marketing** - Avkin  
 New Castle, DE | *Mar 2016 - Dec 2020*  
