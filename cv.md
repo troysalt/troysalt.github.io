@@ -10,13 +10,12 @@ title: Curriculum Vitae
 [Programs](#programs)  
 [Work Experience](#work-experience)  
 [Teaching Experience](#teaching-experience)  
-[Volunteer Experience](#volunteer-experience)  
-[Awards and Scholarships](#awards-and-scholarships)  
+[Volunteer Experience](#volunteer-experience)   
 [Publications](#publications)  
 [Presentations](#presentations)  
 [Licenses & Certifications](#licenses-and-certifications)  
 [Professional Memberships](#professional-memberships)  
-[Extracurricular](#extracurricular)  
+[Awards and Scholarships](#awards-and-scholarships) 
 
 # Education
 ---
@@ -65,11 +64,14 @@ ArcGIS (Pro, Desktop, Online), ENVI, Agisoft Metashape, CloudCompare, Microsoft 
 
 # Work Experience
 ---
-**Post Masters Research Associate (Geospatial Data Science)** - Pacific Northwest National Lab 
-Richland, WA | *June 2021 - Present*  
-I specialize in geospatial data analysis, with current and past projects involving renewable energy, carbon capture, natural disasters (wildfire, tropical cyclones), and vegetation/ecosystem monitoring. I have expertise in remotely sensed data (fine to very-fine RGB, LiDAR, and hyperspectral) and apply modern machine learning techniques, such as random forest, support vector machine, and convolutional neural networks, to extract important information from imagery.
+**Data Scientist** - Pacific Northwest National Lab 
+Richland, WA | *August 2022 - Present*  
+I specialize in geospatial data analysis, with current and past projects involving bioenergy, natural disasters (wildfire, tropical cyclones), and vegetation/ecosystem monitoring. I have expertise working with remotely sensed data (RGB, LiDAR, and hyperspectral) and other big geospatial data like weather and climate datasets.
 
-**Geospatial & Imagery Analyst - Master's Intern** - Pacific Northwest National Lab 
+**Post Masters Research Associate** - Pacific Northwest National Lab 
+Richland, WA | *June 2021 - July 2022*  
+
+**Master's Intern** - Pacific Northwest National Lab 
 Richland, WA | *July 2020 - May 2021*  
 
 **GIS Analyst & Graduate Assistant** - University of Utah  
@@ -92,21 +94,6 @@ Created a GIS to catalogue the edible plants on campus in addition to the new fo
 Raleigh, NC | *Jun 2018 - Aug 2018*  
 Studied methods of assessing soil water infiltration using sprinkle, single-ring, and double-ring infiltrometers. The objective was to determine whether more practical devices (i.e. small diameter single-ring) are accurate enough for soil assessment, especially for agriculture. The program, the Basic Environmental Soil Science Training (BESST), is funded by the National Science Foundation (NSF). I was advised by Dr. Josh Heitman and Dr. Aziz Amoozegar of NC State University. The research was presented at the Soil Science Society of America Meeting in January 2019, and we are working on writing a paper to *Agriculture & Environmental Letters*.
 
-**GIS Consultant** - Mission Street Parks Conservancy  
-Salem, OR | *Feb 2018 - Mar 2018*  
-Developed a GIS database for plants at Bush’s Pasture Park in Salem, OR. The project was completed using ArcGIS and published to ArcGIS Online, viewable at missionstreetparks.org/locations-map/.
-
-**eIntern** - US Department of State, Humanitarian Information Unit (HUI), MapGive Initiative  
-Remote | *Sept 2017 - Dec 2017*  
-Contributed to open geographic data with OpenStreetMap and organized volunteer events called ‘Mapathons’ to help humanitarian aid response. I continue to host Mapathons and have trained over 100 volunteers.
-
-**Research Assistant** - Delaware Department of Natural Resources (DNREC), Mosquito Control Section  
-Glasgow, DE | *May 2017 - Sep 2017*  
-Conducted a study on Aedes aegypti and Ae. albopictus which are vectors of the Zika virus. Maintained and collected from 8 field sites, identified ~20,000 mosquitoes, and produced a publication in the *Journal of the American Mosquito Control Association*.
-
-**Biological Aide** - Delaware Department of Natural Resources (DNREC), Mosquito Control Section  
-Glasgow, DE | *May 2016 - Oct 2016*  
-Performed routine mosquito breeding surveillance and abatement activities (majority of time); collected West Nile and Eastern Equine Encephalitis Virus surveillance data; trapped for mosquitoes to later identify by genus and species; used handheld GPS and tablets for field data collections/record keeping; addressed citizen mosquito complaints; and conducted public education efforts on how communities and citizens can reduce mosquito breeding in and around their homes plus protect themselves from mosquito borne diseases.
 
 [Back to Top](#top)
 
@@ -132,32 +119,28 @@ I contribute to projects on the Humanitarian OpenStreetMap Team's tasking manage
 
 [Back to Top](#top)
 
-# Awards and Scholarships
----
-
-**Marie Donaghay Outstanding Service Award** *May 2019* - University of Delaware, Dept. of Geography
-
-**Special Merit Award** *May 2019* - University of Delaware, Dept. of Earth Sciences
-
-**Allan Thompson Field Experience Scholarship Fund** *August 2018* - University of Delaware
-
-**Excellence in Geoscience** *May 2018* - University of Delaware, Dept. of Geological Sciences
-
-**Student Initiated Program of the Year** *May 2017* - University of Delaware, Residence Life
-
-**Delaware Diplomats Scholarship** *January 2017* - University of Delaware, Institute for Global Studies
-
-[Back to Top](#top)
-
 # Publications
 ---
+Tagestad, Jerry D., **Saltiel, Troy M.**, Coleman, Andre M. (2023) Rapid Spaceborne Mapping of Wildfire Retardant Drops for Active Wildfire Management. *Remote Sensing* 15 (2), 342.
 
-Gingrich Jack B., **Saltiel Troy M.**, Vincent Zach T. (2019). A Survey for *Aedes Aegypti* in Delaware and the Virus-Positive Pool Rates of *Aedes Albopictus* and *Ochlerotatus Triseriatus* for West Nile and Zika Viruses. *Journal of the American Mosquito Control Association* 35 (2), 91-96.
+**Saltiel, Troy M.**, Dennison, Philip E., Campbell, Michael J. (2022) Tradeoffs between UAS spatial resolution and accuracy for deep learning semantic segmentation applied to wetland vegetation species mapping. *Remote Sensing* 14 (11), 2703.
+
+**Saltiel, Troy M.**, Heitman, Joshua L., Amoozegar, Aziz. (2022) Comparison of infiltration test methods for soil health assessment. *Journal of Soil and Water Conservation* 77 (6), 623-629.
+
+Gingrich, Jack B., **Saltiel, Troy M.**, Vincent, Zach T. (2019) A Survey for *Aedes Aegypti* in Delaware and the Virus-Positive Pool Rates of *Aedes Albopictus* and *Ochlerotatus Triseriatus* for West Nile and Zika Viruses. *Journal of the American Mosquito Control Association* 35 (2), 91-96.
 
 [Back to Top](#top)
 
 # Presentations
 ---
+**Chalishazar, Vishvas, **Saltiel, Troy M.** (Feb 2023). Stakeholder panel at the International Wildfire Risk Mitigation Consortium (IWRMC), San Ramon, CA.
+
+**Saltiel, Troy M.**, Tagestad, J. (Dec 2022). *Spaceborne mapping of fire retardant drops using machine learning techniques*. Poster presentation at the American Geophysical Union International Meeting (AGU 22), Chicago, IL.
+
+**Saltiel, Troy M.**, Tagestad, J. (Oct 2022). *Spaceborne mapping of fire retardant drops using machine learning techniques*. Oral presentation at the 22nd William T. Pecora Memorial Remote Sensing Symposium (Pecora 22), Denver, CO.
+
+Coleman, A., **Saltiel, Troy M.** (May 2022). *GeoAI for Earth Observation Analytics: Applications and Challenges*. Oral presentation at the Western Washington Data-Driven Discovery Seminar Series virtually.
+
 **Saltiel Troy M.**, Dennison Philip E., Hambrecht Keith (Dec 2020). *Invasive Species Monitoring with Fine-Resolution Multispectral sUAS-acquired Imagery and a Deep Neural Network Classifier*. Poster presented at the 2020 American Geophysical Union (AGU) meeting virtually.
 
 **Saltiel Troy M.**, Cannon Zach, O’Neal Michael A., Pizzuto James E., Hanson, Brian (Apr 2019). *The effects of freeze-thaw processes on river bank erosion in the White Clay Creek watershed of Delaware and Pennsylvania*. Poster presented at the 2019 American Association of Geographers Meeting in Washington, D.C.
@@ -193,30 +176,23 @@ Gingrich Jack B., **Saltiel Troy M.**, Vincent Zach T. (Jan 2018). *A Survey for
 
 [Back to Top](#top)
 
-# Extracurricular
+# Awards and Scholarships
 ---
-**President** - Geography Club, University of Utah  
-*Jan 2020- May 2021*  
-Revised the club's constitution, organized club events and created new activities. Established the club as a YouthMappers chapter.
 
-**President** - Geology Club, University of Delaware  
-*Sept 2018 - May 2019*  
-Organized meetings, club events, partnerships, and managed the executive board. Our club gathered over 100 sign-ups this year, after a decrease in attendance the year before. Trips included educational camping and hiking trips, rockhounding, and caving. I also formed a new partnership with the Delaware Mineral Society to join their trips throughout the year.
+**Marie Donaghay Outstanding Service Award** *May 2019* - University of Delaware, Dept. of Geography
 
-**Member** - Engineers Without Borders, University of Delaware  
-*June 2017 - May 2019*  
-Produced a site plan map for the Philippines and Malawi projects and helped produce and edit an implementation report for a water distribution system.
+**Special Merit Award** *May 2019* - University of Delaware, Dept. of Earth Sciences
 
-**Secretary** - American Meteorological Society Student Chapter at the University of Delaware  
-*Sept 2017 - May 2018*  
-I was responsible for communications in the club, including email updates, meeting minutes, and trip sign ups.
+**Allan Thompson Field Experience Scholarship Fund** *August 2018* - University of Delaware
 
-**Treasurer** - Geology Club, University of Delaware  
-*Sept 2017 - May 2018*  
-Managed the group’s finances and ensured surplus went to new gear for the club, which we utilized during the following academic year.
+**Excellence in Geoscience** *May 2018* - University of Delaware, Dept. of Geological Sciences
 
-**Environmentor** - University of Delaware, College of Earth, Ocean, and Environment  
-*Sept 2016 - May 2019*  
+**Student Initiated Program of the Year** *May 2017* - University of Delaware, Residence Life
+
+**Delaware Diplomats Scholarship** *January 2017* - University of Delaware, Institute for Global Studies
+
+[Back to Top](#top)
+
 Montored a group of freshmen each year to help them transition to college life, access valuable resources, and for career advice.
 
 [Back to Top](#top)
